@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBRapPhimModelStoreContainer" CdmEntityContainer="DBRapPhimEntities">
+    <EntitySetMapping Name="ghe">
+      <EntityTypeMapping TypeName="DBRapPhimModel.ghe">
+        <MappingFragment StoreEntitySet="ghe">
+          <ScalarProperty Name="ma_ghe" ColumnName="ma_ghe" />
+          <ScalarProperty Name="ma_phong" ColumnName="ma_phong" />
+          <ScalarProperty Name="ten_ghe" ColumnName="ten_ghe" />
+          <ScalarProperty Name="loai_ghe" ColumnName="loai_ghe" />
+          <ScalarProperty Name="trang_thai" ColumnName="trang_thai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="lichchieu">
+      <EntityTypeMapping TypeName="DBRapPhimModel.lichchieu">
+        <MappingFragment StoreEntitySet="lichchieu">
+          <ScalarProperty Name="ma_lich_chieu" ColumnName="ma_lich_chieu" />
+          <ScalarProperty Name="ma_phim" ColumnName="ma_phim" />
+          <ScalarProperty Name="ma_phong" ColumnName="ma_phong" />
+          <ScalarProperty Name="nguoi_lap_lich" ColumnName="nguoi_lap_lich" />
+          <ScalarProperty Name="ngay_chieu" ColumnName="ngay_chieu" />
+          <ScalarProperty Name="gio_bat_dau" ColumnName="gio_bat_dau" />
+          <ScalarProperty Name="gia_ve_co_ban" ColumnName="gia_ve_co_ban" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="nguoidung">
+      <EntityTypeMapping TypeName="DBRapPhimModel.nguoidung">
+        <MappingFragment StoreEntitySet="nguoidung">
+          <ScalarProperty Name="ma_nguoi_dung" ColumnName="ma_nguoi_dung" />
+          <ScalarProperty Name="tai_khoan" ColumnName="tai_khoan" />
+          <ScalarProperty Name="mat_khau" ColumnName="mat_khau" />
+          <ScalarProperty Name="ho_ten" ColumnName="ho_ten" />
+          <ScalarProperty Name="chuc_vu" ColumnName="chuc_vu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="phim">
+      <EntityTypeMapping TypeName="DBRapPhimModel.phim">
+        <MappingFragment StoreEntitySet="phim">
+          <ScalarProperty Name="ma_phim" ColumnName="ma_phim" />
+          <ScalarProperty Name="ten_phim" ColumnName="ten_phim" />
+          <ScalarProperty Name="ma_the_loai" ColumnName="ma_the_loai" />
+          <ScalarProperty Name="thoi_luong" ColumnName="thoi_luong" />
+          <ScalarProperty Name="ngay_khoi_chieu" ColumnName="ngay_khoi_chieu" />
+          <ScalarProperty Name="trang_thai" ColumnName="trang_thai" />
+          <ScalarProperty Name="nguoi_nhap" ColumnName="nguoi_nhap" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="phongchieu">
+      <EntityTypeMapping TypeName="DBRapPhimModel.phongchieu">
+        <MappingFragment StoreEntitySet="phongchieu">
+          <ScalarProperty Name="ma_phong" ColumnName="ma_phong" />
+          <ScalarProperty Name="ten_phong" ColumnName="ten_phong" />
+          <ScalarProperty Name="tinh_trang" ColumnName="tinh_trang" />
+          <ScalarProperty Name="nguoi_quan_ly" ColumnName="nguoi_quan_ly" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sanpham">
+      <EntityTypeMapping TypeName="DBRapPhimModel.sanpham">
+        <MappingFragment StoreEntitySet="sanpham">
+          <ScalarProperty Name="ma_san_pham" ColumnName="ma_san_pham" />
+          <ScalarProperty Name="ten_san_pham" ColumnName="ten_san_pham" />
+          <ScalarProperty Name="loai" ColumnName="loai" />
+          <ScalarProperty Name="gia_ban" ColumnName="gia_ban" />
+          <ScalarProperty Name="so_luong_ton" ColumnName="so_luong_ton" />
+          <ScalarProperty Name="trang_thai" ColumnName="trang_thai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="theloai">
+      <EntityTypeMapping TypeName="DBRapPhimModel.theloai">
+        <MappingFragment StoreEntitySet="theloai">
+          <ScalarProperty Name="ma_the_loai" ColumnName="ma_the_loai" />
+          <ScalarProperty Name="ten_the_loai" ColumnName="ten_the_loai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
