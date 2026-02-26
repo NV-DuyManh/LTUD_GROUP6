@@ -65,7 +65,7 @@
 
             <Separator Margin="0,0,0,10"/>
             <TextBlock Text="Bạn chưa có tài khoản?" HorizontalAlignment="Center"/>
-            <Button Content="Đăng ký ngay" Height="30" Margin="0,5,0,0"/>
+            <Button Content="Đăng ký ngay" Height="30" Margin="0,5,0,0" Click="Button_Click"/>
 
         </StackPanel>
     </Grid>
