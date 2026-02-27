@@ -15,7 +15,7 @@
     <Key>
       <PropertyRef Name="ma_lich_chieu" />
     </Key>
-    <Property Name="ma_lich_chieu" Type="Int32" Nullable="false" />
+    <Property Name="ma_lich_chieu" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
     <Property Name="ma_phim" Type="Int32" Nullable="false" />
     <Property Name="ma_phong" Type="Int32" Nullable="false" />
     <Property Name="nguoi_lap_lich" Type="Int32" Nullable="false" />
