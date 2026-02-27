@@ -100,3 +100,32 @@ E:\LTUD_GROUP6\Cinema\Cinema\obj\Debug\Cinema.exe
 E:\LTUD_GROUP6\Cinema\Cinema\obj\Debug\Cinema.pdb
 E:\LTUD_GROUP6\Cinema\Cinema\obj\Debug\DangKi.g.cs
 E:\LTUD_GROUP6\Cinema\Cinema\obj\Debug\DangKi.baml
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\bin\Debug\DBRapPhim.mdf
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\bin\Debug\DBRapPhim_log.ldf
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\bin\Debug\Cinema.exe.config
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\bin\Debug\Cinema.exe
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\bin\Debug\Cinema.pdb
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\bin\Debug\EntityFramework.dll
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\bin\Debug\EntityFramework.SqlServer.dll
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\bin\Debug\EntityFramework.xml
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\bin\Debug\EntityFramework.SqlServer.xml
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\obj\Debug\Menu.baml
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\obj\Debug\DangKi.g.cs
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\obj\Debug\MainWindow.g.cs
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\obj\Debug\Menu.g.cs
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\obj\Debug\QLSuatChieu.g.cs
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\obj\Debug\App.g.cs
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\obj\Debug\Cinema_Content.g.cs
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\obj\Debug\Cinema_MarkupCompile.cache
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\obj\Debug\Cinema_MarkupCompile.lref
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\obj\Debug\DangKi.baml
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\obj\Debug\MainWindow.baml
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\obj\Debug\QLSuatChieu.baml
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\obj\Debug\Cinema.g.resources
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\obj\Debug\Cinema.csproj.CopyComplete
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\obj\Debug\Cinema.exe
+D:\nhom6\demonhom\New folder\LTUD_GROUP6\Cinema\Cinema\obj\Debug\Cinema.pdb
