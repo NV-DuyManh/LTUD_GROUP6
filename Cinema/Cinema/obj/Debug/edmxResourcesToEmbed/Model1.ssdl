@@ -26,7 +26,7 @@
     <Key>
       <PropertyRef Name="ma_nguoi_dung" />
     </Key>
-    <Property Name="ma_nguoi_dung" Type="int" Nullable="false" />
+    <Property Name="ma_nguoi_dung" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
     <Property Name="tai_khoan" Type="nvarchar" MaxLength="50" Nullable="false" />
     <Property Name="mat_khau" Type="nvarchar" MaxLength="255" Nullable="false" />
     <Property Name="ho_ten" Type="nvarchar" MaxLength="100" />

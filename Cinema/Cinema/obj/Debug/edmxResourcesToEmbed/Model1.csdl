@@ -30,7 +30,7 @@
     <Key>
       <PropertyRef Name="ma_nguoi_dung" />
     </Key>
-    <Property Name="ma_nguoi_dung" Type="Int32" Nullable="false" />
+    <Property Name="ma_nguoi_dung" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
     <Property Name="tai_khoan" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="mat_khau" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="ho_ten" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />

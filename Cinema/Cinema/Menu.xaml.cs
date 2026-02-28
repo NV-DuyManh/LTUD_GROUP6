@@ -29,7 +29,7 @@ namespace Cinema
 
         private void BtnTaiKhoan_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Chức năng Quản lý tài khoản đang được xây dựng!", "Thông báo");
+            MainFrame.Content = new QLTaiKhoan();
         }
     }
 }
